@@ -1,9 +1,5 @@
 import React from 'react';
 
-import HeroBg from '../images/hero-bg.jpg';
-import AuthorImage from '../images/news-author-01.jpg';
-import NewsImage01 from '../images/news-inner-image.jpg';
-import NewsImage02 from '../images/news-inner-image-left.jpg';
 
 function ABFStandardsBlogSingle() {
   return (
