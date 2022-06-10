@@ -26,8 +26,6 @@ export default defineConfig({
       transformMixedEsModules: true,
     }
   }
-});
-
 module.exports = {
   chainWebpack: config => {
     config.module
@@ -41,4 +39,5 @@ module.exports = {
         return options;
       });
   }
-};
+}
+});
