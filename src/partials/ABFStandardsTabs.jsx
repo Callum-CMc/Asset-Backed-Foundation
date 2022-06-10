@@ -1,7 +1,5 @@
 import React, { useState } from 'react';
 
-import VideoThumb from '../images/video-thumb.jpg';
-import PlayBtn from '../images/play-button.svg';
 
 function ABFStandardsTabs() {
 
