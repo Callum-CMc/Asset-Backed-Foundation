@@ -1,8 +1,8 @@
 import React from 'react';
 
-import Pledged from '../images/ABFpledged.png';
-import TierI from '../images/ABFtierI.png';
-import TierII from '../images/ABFtierII.png';
+import Pledged from '../images/abfpledged.jpg';
+import TierI from '../images/abftieri.jpg';
+import TierII from '../images/abftierii.jpg';
 
 function ABFProcess() {
   return (
